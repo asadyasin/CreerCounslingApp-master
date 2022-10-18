@@ -23,7 +23,6 @@ export default function UserInputForm(props) {
       PassedDegree: passedDegree,
       Marks: marks,
     };
-    setName=
     console.log(UserData);
   };
   return (
